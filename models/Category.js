@@ -18,7 +18,7 @@ Category.init(
       //ID will automatically increment when new Categories are created
       autoIncrement: true
     },
-    category_name: {
+    name: {
       //Category name is a String value
       type: DataTypes.STRING,
       //Not allowed to be null
