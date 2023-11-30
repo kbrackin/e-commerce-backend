@@ -41,7 +41,7 @@ Product.init(
       type: DataTypes.INTEGER,
       //Not allowed to be null
       allowNull: false,
-      //This value will be set at 25 by default
+      //This value will be set at 25 if there is no input
       defaultValue: 25,
       //This value must be a numeric to be valid
       validate: {
