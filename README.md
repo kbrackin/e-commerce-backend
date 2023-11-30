@@ -10,7 +10,7 @@ To use this app, you would first need to use `npm i` to install all dependencies
 
 ## Link to Video
 
-Click [here]<https://drive.google.com/file/d/1OBcTlpv6AUF5JZI5pCAgdITCUUf0IdtS/view> for a video walkthrough.
+Click [here](https://drive.google.com/file/d/1OBcTlpv6AUF5JZI5pCAgdITCUUf0IdtS/view) for a video walkthrough.
 
 ## Credits
 
